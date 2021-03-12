@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crops-and-meats</string>
+    <string name="seller">Seller</string>
+    <string name="buyer">Buyer</string>
+    <string name="crops_and_meats">Crops and Meats</string>
+    <string name="back">Back</string>
+</resources>
